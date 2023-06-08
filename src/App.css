@@ -1,0 +1,11 @@
+text {
+  color: "black";
+  user-select: none;
+  font-family: cursive;
+}
+
+p {
+  font-size: 20px;
+  user-select: none;
+  font-family: cursive;
+}
